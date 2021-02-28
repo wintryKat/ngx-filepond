@@ -1,5 +1,5 @@
 {
-  "name": "ngx-filepond",
+  "name": "@thewintrykat/ngx-filepond",
   "version": "1.0.0",
   "description": "A lightly sanded derivative of PQINA's FilePond components for Angular.",
   "keywords": [
