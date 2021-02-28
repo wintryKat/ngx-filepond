@@ -21,7 +21,7 @@ import { NgModule } from '@angular/core';
 import { AppComponent } from './app.component';
 
 // import filepond module
-import { FilePondModule, registerPlugin } from 'ngx-filepond';
+import { FilePondModule, registerPlugin } from '@thewintrykat/ngx-filepond';
 
 // import and register filepond file type validation plugin
 import FilePondPluginFileValidateType from 'filepond-plugin-file-validate-type';
@@ -55,7 +55,7 @@ export class AppModule { }
 ```ts
 // app.component.ts
 import { Component, ViewChild } from '@angular/core';
-import { FilePondComponent } from 'ngx-filepond';
+import { FilePondComponent } from '@thewintrykat/ngx-filepond';
 import { FilePondOptions } from 'filepond';
 
 @Component({
