@@ -1,30 +1,18 @@
 {
   "name": "ngx-filepond",
-  "version": "6.0.0",
-  "description": "A handy FilePond adapter component for Angular",
-  "homepage": "https://pqina.nl/filepond",
-  "license": "MIT",
+  "version": "1.0.0",
+  "description": "A lightly sanded derivative of PQINA's FilePond components for Angular.",
   "keywords": [
     "angular",
-    "angularjs",
-    "angular 2",
+    "angular 11",
     "ngx",
-    "filepond",
-    "file",
-    "upload",
-    "drag",
-    "drop",
-    "browse",
-    "image",
-    "preview"
+    "filepond"
   ],
-  "author": {
-    "name": "PQINA",
-    "url": "https://pqina.nl"
-  },
+  "license": "MIT",
+  "author": "Katherine Aurelia <kat.writes.code@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pqina/ngx-filepond.git"
+    "url": "https://github.com/wintryKat/ngx-filepond.git"
   },
   "peerDependencies": {
     "filepond": ">=4.19.1 <5.x",
